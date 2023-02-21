@@ -1,0 +1,103 @@
+
+body{
+ background-color:#B8FFF9;
+ text-align: center;
+ border-style: solid;
+border-width:5px;
+border-color: black;
+box-shadow: inset 0 0 13px red;
+
+}
+p{
+    font-family: Berkshire Swash,sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-family: sacramento,sans-serif;
+    font-size:50px;
+    text-shadow: 3px 0 lightpink;
+
+}
+.min{
+    width: 250px;
+}
+.two{
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+hr{
+    width:100px;
+    border:0px;
+    border-top:10px;
+    border-style: dotted;
+    border-color: deeppink;
+    margin-bottom:30px;
+}
+.footer{
+    text-decoration:none;
+}
+a{
+    text-decoration: none;
+}
+.ak{
+    width:250px;
+    height:250px;
+    position: relative;
+    right:40%;
+    display: inline-block;
+}
+ul{
+    text-align: left;
+}
+li{
+    display: inline;
+    padding-right:50px;
+    padding:2%;
+    margin: 3.5%;
+}
+a:hover{
+    color:azure
+}
+a{
+    font-size:20px;
+}
+.maybe{
+    background-color:gold;
+}
+.footer{
+    background-color: darkviolet;
+    width:200px;
+    height:150px;
+}
+.btn{
+        background: #3498db;
+        background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+        background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+        background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+        background-image: -o-linear-gradient(top, #3498db, #2980b9);
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Georgia;
+        color: #ffffff;
+        font-size: 15px;
+        padding: 9px 20px 10px 20px;
+        text-decoration: none;
+        margin:40px;
+      }
+      .btn:hover {
+        background: #00ffff;
+        background-image: -webkit-linear-gradient(top, #00ffff, #09b8a9);
+        background-image: -moz-linear-gradient(top, #00ffff, #09b8a9);
+        background-image: -ms-linear-gradient(top, #00ffff, #09b8a9);
+        background-image: -o-linear-gradient(top, #00ffff, #09b8a9);
+        background-image: linear-gradient(to bottom, #00ffff, #09b8a9);
+        text-decoration: none;
+      }
+.sec{
+    background-color:lightgray;
+    padding:40px;
+}
+.details{
+    margin-left:0;
+}
